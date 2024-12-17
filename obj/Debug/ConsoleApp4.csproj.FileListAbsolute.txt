@@ -1,0 +1,7 @@
+E:\.Net\2024\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+E:\.Net\2024\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\.Net\2024\ConsoleApp4\bin\Debug\yujian-module.exe.config
+E:\.Net\2024\ConsoleApp4\bin\Debug\yujian-module.exe
+E:\.Net\2024\ConsoleApp4\bin\Debug\yujian-module.pdb
+E:\.Net\2024\ConsoleApp4\obj\Debug\yujian-module.exe
+E:\.Net\2024\ConsoleApp4\obj\Debug\yujian-module.pdb
